@@ -1,6 +1,6 @@
 body {
     margin: 0;
-    padding-top: 650px;
+    padding-top: 610px;
     text-align: center;
     font-family: 'Heebo', sans-serif;
 }
@@ -51,9 +51,11 @@ h2 {
 }
 
 #bio {
-    padding: 50px;
+    padding: 150px;
     text-align: center;
     font-size: 20px;
+    background: linear-gradient(violet 20%, purple 80%);
+    margin-bottom:150px;
 }
 
 .line {
